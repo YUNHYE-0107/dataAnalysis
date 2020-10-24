@@ -9,4 +9,4 @@
   
   * 나의 데이터 분석 코드
       - [github 코드](https://github.com/YUNHYE-0107/dataAnalysis/blob/main/01_01_%20california.ipynb)
-      - [HTML 코드](https://yunhye-0107.github.io/dataAnalysis/01_01_ california.html)
+      - [HTML 코드](https://yunhye-0107.github.io/dataAnalysis/01_01_california.html)
