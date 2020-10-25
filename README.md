@@ -11,4 +11,10 @@
       - [github 코드](https://github.com/YUNHYE-0107/dataAnalysis/blob/main/01_01_%20california.ipynb)
       - [HTML 코드](https://yunhye-0107.github.io/dataAnalysis/01_01_california.html)
 ## [캐글 코리아 4차 대회]
-  * 
+
+  * 20년 10월 31일 
+  * [T-Academy X KaKr] 성인 인구조사 소득 예측 대회 
+  * 미국 성인 인구조사 데이터셋를 이용한 소득 예측
+  * 데이터 출처 : kaggle Korea 
+  
+  * 나의 데이터 분석 코드 
