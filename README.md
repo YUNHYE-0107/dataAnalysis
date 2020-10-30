@@ -18,5 +18,5 @@
   * 데이터 출처 : kaggle Korea 
   
   * 나의 데이터 분석 코드 
-       - [github 코드]
-       - [HTML 코드]
+       - [github 코드] 
+       - [HTML 코드](http://localhost:8888/view/Documents/GitHub/dataAnalysis/02_incomeresearch_.html)
