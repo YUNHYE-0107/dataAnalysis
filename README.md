@@ -19,4 +19,9 @@
   
   * 나의 데이터 분석 코드 
        - [github 코드] 
-       - [HTML 코드](http://localhost:8888/view/Documents/GitHub/dataAnalysis/02_incomeresearch_.html)
+       - [HTML 코드](http://localhost:8888/view/Documents/GitHub/dataAnalysis/02_incomeresearch_.html) - html code 확인필요 1103
+       
+##[캐글 코리아 4차대회 -2]
+
+  * 20년 11월 3일 
+  *
